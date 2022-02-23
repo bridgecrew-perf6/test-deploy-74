@@ -1,6 +1,6 @@
 {
   "homepage": "https://vansang961.github.io/test-deploy/",
-  "name": "my-app",
+  "name": "test-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
